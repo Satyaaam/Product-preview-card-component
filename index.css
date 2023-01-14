@@ -1,0 +1,67 @@
+.supreme{
+    height:520px;
+    width:700px;
+    border-radius:5px;
+    margin:0px;
+    box-shadow:0px 0px 5px black;
+    display:flex;
+}
+.main-logo{
+    height:520px;
+    width:350px;
+    border-radius:5px;
+}
+.main-2{
+    margin-left:30px;
+    width:270px;
+    margin-top:0px;
+}
+.perfume{
+    font-family:montserrat;
+    color:hsl(228 , 12% , 48%);
+    margin-bottom:-10px;
+    margin-top:30px;
+}
+.info-1{
+    font-size:14px;
+    font-family:montserrat;
+    color:hsl(228 , 12% , 48%);
+    margin-top:-20px;
+    width:220px;
+    line-height:25px;
+}
+.headline-1{
+    font-family:fraunces;
+    font-size:40px;
+}
+.price{
+    margin-top:20px;
+    font-family:fraunces;
+    display:flex;
+    align-items:center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.price-1{
+    display:inline-block;
+    font-size:45px;
+    margin-right:20px;
+    color:rgb(1, 98, 1);
+}
+.price-2{
+    display:inline-block;
+}
+.button-1{
+    display:flex;
+    background-color:rgb(1, 98, 1);
+    border:none;
+    border-radius:5px;
+    align-items:center;
+    gap:8px;
+    color:white;
+    font-family:montserrat;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+    padding-right:100px;
+}
